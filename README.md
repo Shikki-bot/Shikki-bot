@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Shikki-bot/Shikki-bot/main/shikki-bot-loop.gif" width="132" alt="Shikki" />
+<img src="https://raw.githubusercontent.com/Shikki-bot/Shikki-bot/main/shikki-logo-intro.gif" width="220" alt="Shikki" />
 
 # Shikki
 
